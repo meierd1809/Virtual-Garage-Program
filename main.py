@@ -35,7 +35,6 @@ class truck(vehicle):
 vehicle_choice = int(input("Please enter 1 for Car, 2 for Truck, or 3 to quit:"))
 
 print()
-print()
 
 while vehicle_choice == 1 or 2:
   
